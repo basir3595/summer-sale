@@ -1,0 +1,43 @@
+html{
+    overflow-x: hidden;
+}
+
+body{
+    background-color: #e4e1e183;
+}
+.head-div{
+
+    min-height: 50vh;
+    background-color: #F9F6E2;
+
+}
+
+.header-title{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.product-card{
+
+    background-color: #fff;
+    border-radius: 2%;
+    margin: 3rem .5rem;
+    padding: 1rem;
+    max-width: 31.5%;
+   
+   
+}
+
+
+.product-img{
+    background-color: #e4e1e183;
+    border-radius: 2%;
+    padding: 10%;
+}
+
+.coupon{
+    background-color: #fff;   
+    max-height: 15vh;
+    padding: 1rem;
+}
